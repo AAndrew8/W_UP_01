@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Andrew Arredondo"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I went to Rosamond high school and yes I did graduate I just graduated in July. English and math are two complete different subjects but you need both in life I say the math teachers are more fun in math than in english. Math was easier to me because of how helping the teacher was when I had a question.The subject I did best in was econ in my opinion.
      
 
 
@@ -27,13 +27,13 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+   I haven't purchased my computer yet I will this week. I would say I am a 5-6 I know a decent amount about laptops but still would be lost on some things.My internet connection is  6-7 depending how windy or hot it is during the day.
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+  I want to be called by my first name which is Andrew. Another name people could call me is Drew which is short for Andrew.
    
  
 
@@ -45,7 +45,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
-   
+   What I want to achieve in life is to be look where i'm at and be happy with myself. I think econ would be the best subject for me, and I am trying to get a business degree.
  
 
 
